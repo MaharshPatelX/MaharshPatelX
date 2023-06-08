@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'am Maharsh</h1>
-<img align="auto" alt="Coding" width="auto" height = "auto" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="auto" alt="Coding" width="auto" height = "auto" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <!-- 
 # 💫 About Me:
 🔭 I’m currently working on a Full Stack Project and i am a junior coordinator at CSS Society,NIT DURGAPUR.
@@ -37,4 +37,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TechTycoon-Jitu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
