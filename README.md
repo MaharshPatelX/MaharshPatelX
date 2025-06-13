@@ -13,8 +13,5 @@
 <a href="https://www.linkedin.com/in/maharshpatelx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maharshpatelx" height="30" width="40" /></a>
 <a href="https://twitter.com/maharshpatelx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maharshpatelx" height="30" width="40" /></a>
 <a href="https://huggingface.co/maharshpatelx" target="_blank"><img align="center" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="maharshpatelx" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/maharshpatelx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maharshpatelx" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22475667/maharshpatelx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="maharshpatelx" height="30" width="40" /></a>
 <a href="https://medium.com/@maharshpatelx" target="_blank"><img align="center" src="https://www.svgrepo.com/download/354057/medium-icon.svg" alt="@maharshpatelx" height="30" width="40" /></a>
-<a href="https://dev.to/maharshpatelx" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="maharshpatelx" height="30" width="40" /></a>
 </p>
